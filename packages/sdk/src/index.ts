@@ -1,4 +1,3 @@
-export * from "./errors.js";
 export * from "./api/errors.js";
 export * from "./api/schemas.js";
 export * from "./core/index.js";
